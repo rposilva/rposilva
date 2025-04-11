@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Engenharia de Software na Universidade Anhanguera.
 - 💼 Trabalhando como Técnico de Manutenção no Grupo RAMASA Auto.
-- 🌱 Aprendendo mais sobre Git/Github e Ruby.
+- 🌱 Aprendendo mais sobre Git/Github e Python.
 
 ## Minhas Skills
 
